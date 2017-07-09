@@ -1,0 +1,1014 @@
+[
+  {
+    "name" : "water",
+    "solutions" : [ 
+      {
+        "cost" : "200-300 INR",
+        "difficulty" : [1,0,0,0,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/Cover.png",
+        "message" : "Save 40% of water being released from your taps",
+        "title" : "Optimise Water Usage!",
+        "description" : "A Usage Point Optimiser, optimises the use of water at a tap, by restricting the water flow. The UPO consists of air nozzles on the surface which mix the air with water and gives light smooth flow.",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Collect the following materials.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/0.JPG"
+              },
+              {
+                "alert" : "Measure your tap diameter and look out for the UPO you want!",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/1.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Open the tip of the tap you want to install the UPO in with a wrench or using your hand",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/2.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/3.JPG"
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "content" : [
+              {
+                "message" : "Clean the inside of the tap with your finger to remove any deposits",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/4.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "content" : [
+              {
+                "message" : "Place the washer just above the UPO and fit it inside the tap as shown here. That’s all you need to do to reduce the flow rate of your tap!",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/5.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/6.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/7.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/UPO/8.JPG"
+              },
+              {
+                "alert": "Ensure there are no leaks by tightening the tip of the tap."
+              }
+            ] 
+          }
+        ]
+      },
+      {
+      	"cost" : "Contact Reap Benefit",
+        "difficulty" : [1,1,0,0,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Smart+Drip/SmartDripCom.JPG",
+        "message" : "Automatically irrigate your plants whether you’re at home or office or on vacation!",
+        "title" : "Smart Irrigation System",
+        "description" : "This Smart Irrigation system makes the process of saving water easy and automatic for users. The system does this by detecting soil moisture levels and releases water only when water levels are low. It makes it possible for users to do this without investing a lot of time or money.",
+        "data" : []
+      },
+      {
+      	"cost" : "300-500 INR",
+        "difficulty" : [1,1,1,0,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/0Cover.jpg",
+        "message" : "Save water by implementing a simple Drip Irrigation setup yourself at your home or school.",
+        "title" : "Try Drip Irrigation",
+        "description" : "Reduce your water usage by delivering water directly to the roots of the plant. Get in touch with us to prepare a kit customised to suit your garden needs! You can also try this yourself by following the instructions below.",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Connect the drip pipe to a water source securely. Make sure there are no leaks when you turn the tap on.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/1.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/2.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/3.JPG"
+              },
+              {
+                "alert" : "Ensure there are no leaks when you turn the tap on."
+              }
+            ]
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Cut the drip pipe to the length that you want to use in your garden patch. Take the pipe around the garden patch and place it close to the bigger plants. If the path is not straight, cut the pipe where necessary and use the L and T connectors to bend it along the path you want.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/4.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/5.JPG"
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "content" : [
+              {
+                "message" : "Use the nail to make holes  in the pipe, wherever it is close to a plant root and then insert the dripper in. Make sure the hole is just enough to fit the dripper, and not any bigger. Use the zip tags to secure the pipe to the plant.",
+                "alert" : "Make sure the hole size is just enough to fit the dripper tightly.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/6.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/7.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/8.JPG"
+              }
+            ]
+          },
+          {
+            "step" : 4,
+            "content" : [
+              {
+                "message" : "Once all other connections have been secured, fold the end of the drip pipe to prevent water from flowing out.",
+                "alert" : "Run system once and recheck there are no leaks",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Drip+Irrigation/9.JPG"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cost" : "50 INR",
+        "difficulty" : [1,0,0,0,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Bottle+Drip/0Cover.jpg",
+        "message" : "Save water using a simple low cost technique!",
+        "title" : "Bottle Drip Irrigation",
+        "description" : "Almost 60% of water used in gardening is lost due to evaporation. With a simple bottle drip irrigation, we ensure that the water reaches the roots of the plants and that the growth of weeds is reduced.",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Remove the plastic wrapper around the bottle. On the bottle cap make 2-3 holes using a ball pin - If the plastic is hard, heat up the bottle pin and push it inside the cap. Make sure the hole isn’t any larger.",
+                "alert" : "Make sure the hole isn’t any larger than made by a safety/ball pin",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Bottle+Drip/1.jpg"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Cut 2 cms off the bottom of the bottle so that you can fill the bottle with water",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Bottle+Drip/2.jpg"
+              }
+            ] 
+          },
+          {
+            "step" : 3,
+            "content" : [
+              {
+                "message" : "Push the bottle in, next to the plant root. Make sure you keep it 4-5 cms away from the plant stem, so that you don’t damage the roots. Put water into the bottle using a pipe or a watering can as usual!",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Bottle+Drip/3.jpg"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Bottle+Drip/4.jpg"
+              }
+            ] 
+          }
+        ]
+      },
+      {
+        "cost" : "0 INR",
+        "difficulty" : [1,0,0,0,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Optimise+Flush+Tank/0Cover.jpg",
+        "message" : "A simple way to save at least a litre or two per flush.",
+        "title" : "Optimise your flush tank",
+        "description" : "Flush tanks use 8-10 litres per flush, amounting to more than 100 litres of water per day for a 4 member family - this is literally water down the drain! Read on to know how you can reduce this consumption.",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Get two small plastic bottles, of about 500-600 ml capacity. Put some sand/gravel inside the bottle to add weight. Make sure that the bottle caps are closed tightly.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Optimise+Flush+Tank/Step+1.1.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Optimise+Flush+Tank/Step+1.2.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Put bottles in a water filled bucket to see if they stay at the bottom and not float up",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Optimise+Flush+Tank/Step+2.jpg"
+              }
+            ] 
+          },
+          {
+            "step" : 3,
+            "content" : [
+              {
+                "message" : "Open flush tank, empty some of it by pressing the flush button/lever and place bottles inside.",
+                "alert" : "Make sure the bottle doesn’t block flushing action",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Optimise+Flush+Tank/Step+3.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "content" : [
+              {
+                "message" : "Since some flushes might not work as effectively with lesser water, check the working of the flush a few times after to be sure.",
+                "alert" : "Check if flush works properly",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Optimise+Flush+Tank/Step+4.jpg"
+              }
+            ] 
+          }
+        ]
+      },
+      {
+        "cost" : "0 INR",
+        "difficulty" : [1,0,0,0,0],
+        "image" : "",
+        "message" : "Reuse reject water given out by RO purifiers after filtration",
+        "title" : "Reuse RO water",
+        "description" : "RO purifiers are one of the most sought after water purification products today. While they do a good job at purifying the water, for every litre of purified water, 3 litres get rejected and disposed. Instead of watching the wastage, we can reuse this water.",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Store and dilute the RO reject water. Collect the reject water from the RO by extending the reject pipe to a bucket under the sink. Dilute the collected water by adding some fresh water from the tap",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Reuse+RO/Step+1+.jpg"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Reuse RO reject water for gardening. Use the diluted water for anything like watering plants, mopping the floor, soaking utensils, flushing etc.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Reuse+RO/Step+3.jpg"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterSolutions/Reuse+RO/Step+4.jpg"
+              }
+            ] 
+          }
+        ]
+      }
+    ],
+    "slides" : [ 
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/listicle+illustration-01.png",
+        "message" : "Save yourself the guilt of wasting water while cooking by using these simple tips!",
+        "title" : "Five ways to reuse Grey water in the kitchen",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "Reuse vessels",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+1/A(i).+Reusing+Vessels.png"
+              },
+              {
+                "message" : "Reusing vessels is a great way to save water. You can be creative here - If you are making a spicy variety of rice, you can cook it in the same container as you made your curry in. The added flavour will do wonders!"                
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "title" : "Wash your veggies in a bowl",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+1/A(ii).+WashVegetablesInABowl.jpg"
+              },
+              {
+                "message" : "This will allow you to thoroughly clean vegetables than give a hurried rinse under the tap, and also save water."
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "title" : "Water plants with greywater",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+1/A(iv).+Water+plants+for+cooking.jpg"
+              },
+              {
+                "message" : "Harvest water in a pan while washing non-greasy utensils like water glasses, spoons, trays, chopping board etc - and use it to water plants. Water from boiling pasta or rice can be cooled and also be used in the garden."
+              }
+            ]
+          },
+          {
+            "step" : 4,
+            "title" : "A smart way to clean vessels",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+1/A(v)SoakGreasyUtensils.png"
+              },
+              {
+                "message" : "You can plan cleaning vessels in such a way that all your greasy utensils get soaked in water that is used for cleaning vegetables, washing non-greasy utensils etc. Even otherwise, soaking utensils reduces the effort of scraping dry grease from utensils and using more water."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/listicle+illustration-02.png",
+        "message" : "Sometimes, a running tap can be the reason for burning a hole in your pocket. Here’s how you can avoid it.",
+        "title" : "Smart and simple ways to save water",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "Reduce shower durations",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+2/B(i)+ShowerDuration.png"
+              },
+              {
+                "message" : "We all like a long hot shower. But, even reducing your shower time by 5 mins can help save a lot of water!"                
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "title" : "Carry your own drinking water!",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+2/B(ii)+CarryWaterBottle.png"
+              },
+              {
+                "message" : "Nearly 30% raw water gets wasted in a bottle packaging facility. Avoid contributing to this wastage by not buying packaged water and carrying your own water bottle along."
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "title" : "Cook with less",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+2/B(iii)+CookWithLess.png"
+              },
+              {
+                "message" : "Most Indian food is based on slow cooking with steam or water. A pressure cooker or a lid on your vessel will let you retain the water and also save on gas usage!"
+              }
+            ]
+          },
+          {
+            "step" : 4,
+            "title" : "Reuse water from your kitchen",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+2/B(iv)ReuseWater.jpg"
+              },
+              {
+                "message" : "You need water for washing veggies or soaking lentils - use a bowl to do this and reuse the collected water to water plants. You can also use waste RO water for rinsing utensils and mopping your floor!"
+              }
+            ]
+          },
+          {
+            "step" : 5,
+            "title" : "Wash smart",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+2/B(v)SoakUtensils.png"
+              },
+              {
+                "message" : "Simple habits like soaking your dishes in advance and reusing some utensils for cooking makes the job of cleaning easier and saves water too."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/listicle+illustration-03.png",
+        "message" : "Best way to change habits is to change your default options. Check out these smart products and how to DIY them to save thousands of litres of water per year.",
+        "title" : "Proactive shopping to save water",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "Usage Point Optimisers",
+            "content" : [
+              {
+                "message" : "A Usage Point Optimiser/aerator is a simple solution to save water during a common activity - handwash. Find the best option depending on your tap type.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+3/C(i)UPO.JPG"
+              },
+              {
+                "message" : "Cost - 200-300 INR"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "title" : "Multi-mode Hose-Pipe Nozzle",
+            "content" : [
+              {
+                "message" : "If you wash your car or water your garden with a hose pipe, you are most likely using nearly 30 litres of water per minute. Avoid this with a simple multi-mode hose-pipe nozzle. You can have a jet spray, shower spray or full flow of water depending on what you are using hose-pipe for. ",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+3/C(ii)Multimode+Hose.png"
+              },
+              {
+                "message" : "Cost - 150-350 INR"
+              },
+              {
+                "message" : "Link to buy",
+                "url" : "http://www.amazon.in/s/ref=nb_sb_noss_1?url=search-alias%3Dlawngarden&field-keywords=water+spray+gun"
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "title" : "Dishwasher",
+            "content" : [
+              {
+                "message" : "If you are 2 or more member family which enjoys meals at home , investing a dishwasher would be a smart option. All research says when washing a full load, a dishwasher saves more water than using your hands for the job.",              
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+3/C(iii)Dishwasher.jpeg"
+              },
+              {
+                "message" : "Cost - 30000-40000 INR"
+              },
+              {
+                "message" : "Link to the buy",
+                "url" : "https://www.snapdeal.com/products/appliances-dishwashers?sort=plrty"
+              }
+            ]
+          },
+          {
+            "step" : 4,
+            "title" : "Dual Mode Flush",
+            "content" : [
+              {
+                "message" : "Your default flush uses about 10-15 litres per flush. With a dual flush system, you can choose to limit this to 3 to 4 litres the half flush."
+              },
+              {
+                "message" : "If changing your flush tank is not an option, check out our DIY guide on how to optimize your current flush tank with minimal effort and no cost.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+3/C(iv)DualModeFlush.jpg"
+              },
+              {
+                "message" : "Cost - 800-1500 INR"
+              },
+              {
+                "message" : "Link to buy",
+                "url" : "https://www.snapdeal.com/search?keyword=dual%20flush%20cister&santizedKeyword=&catId=4270&categoryId=0&suggested=false&vertical=&noOfResults=20&searchState=&clickSrc=go_header&lastKeyword=&prodCatId=&changeBackToAll=false&foundInAll=false&categoryIdSearched=&cityPageUrl=&categoryUrl=&url=&utmContent=&dealDetail=&sort=lvncy"
+              }
+            ]
+          },
+          {
+            "step" : 5,
+            "title" : "Water Level Indicator",
+            "content" : [
+              {
+                "message" : "If you have a water storage tank, you will need an indicator to tell you when to turn the water motor off to avoid spillage. You can either buy the market available options or try building one yourself using arduino technology.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+3/C(v)WaterlevelIndicator.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/listicle+illustration-04.png",
+        "message" : "A community dedicated to using resources mindfully has impact on all individuals living in it and on the environment. If your community isn’t already moving in that direction, use these tips to start changing things around your neighbourhood.",
+        "title" : "Top community practices that save water",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "Efficient Plumbing and Bathroom Fittings",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+4/E(i)Plumbing.jpg"
+              },
+              {
+                "message" : "A lot of builders nowadays provide homes with water optimizing fittings like aerators in taps and jet spray health faucets. It makes sense to have these fittings done before the house is built or when apartments are getting refurbished."                
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "title" : "Rain Water Harvesting",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+4/E(ii)Rainwater+Harvesting.jpg"
+              },
+              {
+                "message" : "A central system for rain-water harvesting is the way to go. It will save up on water bills in the long run."
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "title" : "Waste Water Treatment Plants",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+4/E(iii)MiniWaterTreatmentPlant.png"
+              },
+              {
+                "message" : "Treated waste water can be used for flushing toilets and watering gardens. While the system is expensive to set up, it is wise for a community of 100 families and above to invest in one to save the cost of buying water."
+              }
+            ]
+          },
+          {
+            "step" : 4,
+            "title" : "Community Gardens",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+4/E(iv)CommunityGarden.jpg"
+              },
+              {
+                "message" : "If families don’t have the time or space to maintain their own gardens, they can get together to cultivate a patch as a common garden. The responsibility can be shared as can the joy of owning a garden."
+              }
+            ]
+          },
+          {
+            "step" : 5,
+            "title" : "Leakage checks",
+            "content" : [
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/WaterListicles/slide+4/E(v)LeakageCheck.png"
+              },
+              {
+                "message" : "Leakage check can happen as a part of regular maintenance drive or a dedicated campaign to save water, Sometimes, all people need is a gentle reminder to get that tap fixed!"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "sanitation",
+    "solutions" : [
+      {
+        "cost" : "Contact Reap Benefit",
+        "difficulty" : [1,1,1,1,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/00Cover.JPG",
+        "message" : "Save 70% water consumption in your toilet",
+        "title" : "Make a Waterless Urinal!",
+        "description" : "A urinal that uses a TT ball to block out unwanted odour thereby reducing the need for flushing after every use. The Waterless Urinal not only reduces water consumption by 70%, it also keeps the toilet odour free.",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Collect the following Materials and Tools. Materials: Steel Sheet: 0.3mm thick - 15 inches by 20 inches, Aluminium strips : 14 inches length (1 unit) and 8 inches length (2 units), m-seal - 2 units, Steel funnel: 10 inches diameter - 1 unit, Drainage mouth: 50mm diameter - 2 units, Nuts and Bolts: m4 - 30 units. Tools: Hammer, File (for smoothening metal edges), Scissors, Measuring Tape, Screw Driver Set, Nails, Marker, Drill Gun, L-Angle Rod.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/00Coz.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Preparing the metal sheet: Mark and cut the steel sheet as given in the diagram below",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/00Draw.png"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/02.JPG"
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "content" : [
+              {
+                "message" : "Hem the edges : Since the edges of the cut metal sheet will be very sharp, they will have to be bent to make them user friendly. Bend the edges using the L-angle rod and a hammer.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/03.1.JPG"
+              },
+              {
+                "message" : "The end product will look like this:",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/04.JPG"
+              },
+              {
+                "message" : "Using a pair of scissors, cut off the sharp corners. Use a file to soften the cut corners.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/05.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/06.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "content" : [
+              {
+                "message" : "Prepare the funnel: Keeping the centre of the funnel mouth as a reference point, drill holes at 0, 90 and 180 degrees.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/funnel.png"
+              }
+            ] 
+          },
+          {
+            "step" : 5,
+            "content" : [
+              {
+                "message" : "Make holes in the sheet: Bend the sheet to match the mouth of the funnel.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/07.JPG"
+              },
+              {
+                "message" : "Next, mark the sheet to match the holes on the funnel.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/08.JPG"
+              },
+              {
+                "message" : "Remove the sheet and make holes. For this purpose, use a hollow solid and place it under the sheet.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/09.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/10.JPG"
+              },
+              {
+                "message" : "Then using a nail and hammer, make holes in the metal sheet.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/11.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 6,
+            "content" : [
+              {
+                "message" : "Attach the metal sheet to the the funnel using screws.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/12.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 7,
+            "content" : [
+              {
+                "message" : "Prepare Aluminium strips: Drill holes on both ends of aluminium strips leaving about 1 inch from the top edge and 3/4 inch at the bottom.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/stripe.png"
+              }
+            ]
+          },
+          {
+            "step" : 8,
+            "content" : [
+              {
+                "message" : "Attach the aluminium strips to the metal sheet and the funnel: Mark the sheet where the aluminium strips will be attached. The longest aluminium strip will support the metal sheet in the centre and the smaller ones will be placed on the sides.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/13.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/14.JPG"
+              },
+              {
+                "message" : "Make holes in the metal sheet according to the markings using a nail and hammer. Now attach the strips with nuts and bolts to the funnel.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/15.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/16.JPG"
+              },
+              {
+                "message" : "The urine bowl is ready to be fitted with a TT ball. This is what the back of the urinal will look like."
+              }
+            ]
+          },
+          {
+            "step" : 9,
+            "content" : [
+              {
+                "message" : "Fitting the TT Ball: Place three pieces of m-seal or plastic strips to make a mount for the TT Ball in the drainage mouth.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/17.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/18.JPG"
+              },
+              {
+                "message" : "Place the TT ball on the mount as shown. Use the second drainage mouth to cover the first one containing the TT ball and seal both together with M-seal.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/19.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/20.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/21.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 10,
+            "content" : [
+              {
+                "message" : "Attaching the contraption to the funnel. Attach the drainage mouths containing the TT ball to the funnel using m-seal.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/22.JPG"
+              },
+              {
+                "message" : "The urinal is now ready to be attached a conventional drainage setup.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Waterless+Urinal/00Cover.JPG"
+              },
+              {
+                "message" : "The urinal may be connected to conventional drainage or may be mounted directly on top of a regular bathroom drain."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "cost" : "30-50 INR",
+        "difficulty" : [1,1,0,0,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/0CoverBio.jpg",
+        "message" : "A low cost water purification method",
+        "title" : "Low-cost Biosand Filter",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "content" : [
+              {
+                "message" : "Collect the materials you need: 1 PET bottle, Fine sand, Sieve, M seal, Gravel, 2 Straws"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "content" : [
+              {
+                "message" : "Cut the upper half of one PET bottle",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+2.JPG"
+              }
+            ] 
+          },
+          {
+            "step" : 3,
+            "content" : [
+              {
+                "message" : "Pierce holes in the top and bottom halves as shown in the image",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+3.1.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+3.2.png"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "content" : [
+              {
+                "message" : "Fix the two straws and snip off the extra length as shown.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+4.1.JPG"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+4.2.png"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+4.3.png"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+4.4.png"
+              },
+              {
+                "message" : "Use m-seal to fix the straws together and to fix the straw into the bottle.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+5.png"
+              }
+            ] 
+          },
+          {
+            "step" : 5,
+            "content" : [
+              {
+                "message" : "Sieve the sand so that you get a fine uniform grain. Wash the gravel.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+7.png"
+              }
+            ] 
+          },
+          {
+            "step" : 6,
+            "content" : [
+              {
+                "message" : "Add gravel to the lower half so that it covers about 11/2 to 2 inches. Add sand on top of the gravel."
+              }
+            ] 
+          },
+          {
+            "step" : 7,
+            "content" : [
+              {
+                "message" : "Place the upper half of the bottle upside down into the lower half as shown in the image. Your filter is ready to use! Pour some muddy water in to see if it gives out clear water.",
+                "alert" : "Make sure your boil the water after filtering it.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Biosand/Step+8.png"
+              }
+            ] 
+          }
+        ]
+      },
+      {
+        "cost" : "1000 INR",
+        "difficulty" : [1,1,1,1,0],
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/SanitationSolutions/Test+Water/IMG_3494.JPG",
+        "message" : "Get our kit to test quality of water you get at a government school or at the community water tank",
+        "title" : "Test Water Quality",
+        "description" : "Clear water is not always clean water. The Water TestKit below demonstrates an array of tests one can do to check water quality. Place an order to get the TestKit of your choice!",
+        "data" : [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "electricity",
+    "solutions" : [],
+    "slides" : [ 
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/ElectricityListicle-11.png",
+        "message" : "Follow simple rules, and you will save up not only on your bills, but also do your bit to save electricity.",
+        "title" : "Habits that save electricity and money",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "Turn off unused lights and fans",
+            "content" : [
+              {
+                "message" : "This one’s a no-brainer. Turning off lights and fans is the simplest way to save some electricity - just take a quick look at the switches before you leave a room!",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+1/1.1+TurnOffUnusedLights.png"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "title" : "Use your geyser wisely",
+            "content" : [
+              {
+                "message" : "Geysers, new or old, normally take between 10-15 minutes to heat water. The water then remains hot for a while.  Find out how long your geyser takes to heat your bath water through trial and error and then be sure to switch it off in time.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+1/1.2+(draft)+GeyserDraft.png"
+              }
+            ] 
+          },
+          {
+            "step" : 3,
+            "title" : "Plan  your cooking",
+            "content" : [
+              {
+                "message" : "Most of our cooking today is aided by electronic appliances such as hot water kettles, blenders, microwaves etc. which save us a lot of time and effort. Make a plan to use these appliance fewer times and prevent excess use of electricity. Tricks like reheating more food at one go, cooking in bulk etc. can go a long way in saving electricity and money.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+1/1.3+PlanYourCooking.png"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "title" : "Unplug devices",
+            "content" : [
+              {
+                "message" : "Leaving the plug inside the socket even without a device plugged in saps energy and in the long run this leakage of electricity will show up on your bill. Start now by unplugging all those devices that are already charged.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+1/1.4+UnplugDevices+-+Cover+Image.png"
+              }
+            ] 
+          },
+          {
+            "step" : 5,
+            "title" : "Replace old appliances",
+            "content" : [
+              {
+                "message" : "A push in recent years for energy efficient appliances means that in all probability a better, more efficient model of your old cfc-producing fridge or lead-made TV is out in the market. In case of home appliances, old may not always be gold.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+1/1.5+OldAppliance.jpg"
+              }
+            ] 
+          }
+        ]
+      },
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/ElectricityListicle-10.png",
+        "message" : "Some tips to buy smart and save electricity before you pay for it.",
+        "title" : "Smart shopping to save electricity",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "LED bulbs",
+            "content" : [
+              {
+                "message" : "Say goodbye to your Edison incandescent bulb. The most energy efficient build so far - the LED bulb is worth the investment.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.1+LED.jpg"
+              },
+              {
+                "message" : "Know More about LED bulb options",
+                "url" : "https://www.revolvesolar.com/who-said-energy-efficient-light-bulbs-have-to-be-boring/"
+              }
+            ]
+          },
+          {
+            "step" : 2,
+            "title" : "Geysers",
+            "content" : [
+              {
+                "message" : "When buying geysers, forget the one-size-fits-all approach. Different geysers have different heating capacities. You can decide what size of geyser you need depending on what your daily hot water requirement is.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.2+Geyser+copy.png"
+              },
+              {
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.2+Geyser.png"
+              }
+            ]
+          },
+          {
+            "step" : 3,
+            "title" : "Air Conditioner",
+            "content" : [
+              {
+                "message" : "Your air conditioner requirement is a factor amongst others of the size of the room and the duration of cooling needed.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.3+ACs.png"
+              },
+              {
+                "message" : "Find out which kind of air conditioner will suit your needs most and will save electricity by clicking on the link below:"
+              },
+              {
+                "message" : "Click here",
+                "url" : "https://www.bijlibachao.com/air-conditioners/split-window-air-conditioner-ac-lg-hitachi-carrier-samsung-buying-guide.html"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "title" : "Washing Machine",
+            "content" : [
+              {
+                "message" : "Everyone knows washing full loads is the only efficient way of using a washing machine.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.4+Washing+Machine+copy.png"
+              },
+              {
+                "message" : "Here’s all you need to know while choosing a machine machine:"
+              },
+              {
+                "message" : "Click here",
+                "url" : "https://www.bijlibachao.com/appliances/best-washing-machine-buying-guide-india.html",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.4+Washing+Machine.png"
+              }
+            ] 
+          },
+          {
+            "step" : 5,
+            "title" : "Energy Stars",
+            "content" : [
+              {
+                "message" : "This last tip is for all your electronic purchases.  Look out for this label to know which appliances save the most energy. The more stars you have, the more you save energy.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+2/2.5+energy-label-6-star-fridge.jpg"
+              },
+              {
+                "message" : "To know about the power saving guide stickers:"
+              },
+              {
+                "message" : "Click here",
+                "url" : "https://www.bijlibachao.com/general-tips/beestar-rating-program-explained.html"
+              }
+            ] 
+          }
+        ]
+      },
+      {
+        "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/ElectricityListicle-12.png",
+        "message" : "Turning off lights and fans alone may not suffice when it comes to saving electricity and money. Take a look at some things in your house that are silently adding to your monthly bill.",
+        "title" : "Silent in-house electricity consumers",
+        "description" : "",
+        "data" : [
+          {
+            "step" : 1,
+            "title" : "Appliances on standby mode",
+            "content" : [
+              {
+                "message" : "Set top boxes, TVs, computers, printers and many more small devices consume electricity when you least suspect it. Unless the device has been turned off from the mains, it continues to consume anywhere between 0.01 to 0.1 unit of electricity.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+3/3.1+Standby+Mode.jpeg"
+              }
+            ] 
+          },
+          {
+            "step" : 2,
+            "title" : "Old Refrigerators",
+            "content" : [
+              {
+                "message" : "Older models of most appliances are not as energy efficient as their newer versions. Add to this extra emissions of greenhouse gases that refrigerators emit and the trouble of defrosting every month or so.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+3/3.2+OldFridges.png"
+              }
+            ] 
+          },
+          {
+            "step" : 3,
+            "title" : "Phone/Laptop Chargers",
+            "content" : [
+              {
+                "message" : "Most of our gadgets such as phones and laptops require daily charging. A lot of tend to leave the switch even when the device is fully charged or forget to take the plug out of the socket. Both these mistakes consume small amounts of electricity.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+3/3.3+Phone_Laptop+Chargers.png"
+              }
+            ] 
+          },
+          {
+            "step" : 4,
+            "title" : "Open Doors",
+            "content" : [
+              {
+                "message" : "Keeping doors, windows or even wardrobes open when the air conditioner is on will mean that the square footage required to cool will be greater and the AC will require more time and hence electricity to cool the room.",
+                "image" : "https://s3.ap-south-1.amazonaws.com/isolve-bucket/Solutions/ElectricityListicles/slide+3/3.4+Open+Door.png"
+              }
+            ] 
+          }
+        ]
+      }
+    ]
+  }
+]
